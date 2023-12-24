@@ -1,0 +1,24 @@
+# 忽略操作系统生成的文件
+.DS_Store
+
+# 忽略特定编辑器的配置文件
+.vscode/
+.idea/
+
+# 忽略日志和临时文件
+*.log
+*.tmp
+logs/
+
+
+# 忽略编译和构建过程中生成的文件
+/build/
+/dist/
+/out/
+/bin/
+
+# 忽略go.sum文件
+/go.sum
+
+
+
